@@ -19,7 +19,7 @@
 
 Sou um desenvolvedor focado no **Back-End**, apaixonado por construir a lógica robusta que sustenta aplicações modernas. Meu foco não está apenas em fazer funcionar, mas em entender a eficiência, o gerenciamento de memória e a arquitetura por trás do código.
 
-Acredito que uma boa engenharia de software começa com uma base sólida em algoritmos e estruturas de dados, transitando entre linguagens de baixo nível (como C) e alto nível para entregar a melhor performance.
+Acredito que uma boa engenharia de software começa com uma base sólida em algoritmos e estruturas de dados, transitando entre linguagens de baixo nível e alto nível para entregar a melhor performance.
 
 ---
 
