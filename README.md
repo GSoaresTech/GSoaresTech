@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Gabriel Soares (GSoaresTech)</h1>
-  <h3>Backend Developer | Software Engineer</h3>
+  <h3>Data Engineer | Ciência da Computação</h3>
   
   <p>
-    <i>"O verdadeiro trabalho acontece onde o usuário não vê."</i>
+    <i>"Transformando fluxos de dados brutos em inteligência estratégica."</i>
   </p>
 
   <a href="https://github.com/GSoaresTech">
@@ -17,23 +17,27 @@
 
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor focado no **Back-End**, apaixonado por construir a lógica robusta que sustenta aplicações modernas. Meu foco não está apenas em fazer funcionar, mas em entender a eficiência, o gerenciamento de memória e a arquitetura por trás do código.
+Atualmente atuo como **Data Engineer** na Live Shop Turbo, onde sou responsável por projetar e manter a infraestrutura de dados para o ecossistema analítico.
 
-Acredito que uma boa engenharia de software começa com uma base sólida em algoritmos e estruturas de dados, transitando entre linguagens de baixo nível e alto nível para entregar a melhor performance.
+Meu foco profissional e acadêmico está na intersecção entre **Engenharia de Software**, **Modelagem Matemática**, **Banco de Dados Relacionais (especialmente PostgreSQL e Supabase)** e **Cloud Computing (AWS Certified)**.
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
 
-Minha caixa de ferramentas para resolver problemas complexos:
+Minha caixa de ferramentas é focada em infraestrutura e processamento de dados robustos. Meus projetos profissionais atuais são construídos com:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs" alt="Linguagens" /><br>
+  <img src="https://skillicons.dev/icons?i=python,sql,ts,cpp,c,java,cs" alt="Linguagens" /><br>
   
   <br>
   
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,mysql" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,aws,docker,linux,git,bash,vscode" alt="Ferramentas" />
 </div>
+
+#### Destaques Técnicos:
+- 📊 **Projetos Profissionais:** Experiência com o ecossistema Supabase, desenvolvimento de pipelines ETL com Python para APIs externas (ex: Meta Marketing), e modelagem complexa de banco de dados com PL/pgSQL para análise de performance.
+- 🎓 **Projetos Acadêmicos & Pessoais:** Mantenho repositórios públicos (em C, C++ e C#) que demonstram forte base em algoritmos, gerenciamento de memória e estrutura de dados, aplicando conceitos de engenharia e modelagem matemática.
 
 ---
 
@@ -59,7 +63,7 @@ Minha caixa de ferramentas para resolver problemas complexos:
   <a href="https://www.linkedin.com/in/gabriel-soares-b714a725a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto: gabrielsoares200473@gmail.com" target="_blank">
+  <a href="mailto:gabrielsoares200473@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
