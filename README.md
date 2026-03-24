@@ -13,49 +13,6 @@
 
 <br />
 
----
-
-### 🚀 Sobre Mim
-
-Atualmente atuo como **Data Engineer** na Live Shop Turbo, onde sou responsável por projetar e manter a infraestrutura de dados para o ecossistema analítico.
-
-Meu foco profissional e acadêmico está na intersecção entre **Engenharia de Software**, **Modelagem Matemática**, **Banco de Dados Relacionais (especialmente PostgreSQL e Supabase)** e **Cloud Computing (AWS Certified)**.
-
----
-
-### 🛠️ Tech Stack & Ferramentas
-
-Minha caixa de ferramentas é focada em infraestrutura e processamento de dados robustos. Meus projetos profissionais atuais são construídos com:
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,ts,cpp,c,java,cs" alt="Linguagens" /><br>
-  
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,aws,docker,linux,git,bash,vscode" alt="Ferramentas" />
-</div>
-
-#### Destaques Técnicos:
-- 📊 **Projetos Profissionais:** Experiência com o ecossistema Supabase, desenvolvimento de pipelines ETL com Python para APIs externas (ex: Meta Marketing), e modelagem complexa de banco de dados com PL/pgSQL para análise de performance.
-- 🎓 **Projetos Acadêmicos & Pessoais:** Mantenho repositórios públicos (em C, C++ e C#) que demonstram forte base em algoritmos, gerenciamento de memória e estrutura de dados, aplicando conceitos de engenharia e modelagem matemática.
-
----
-
-### 📊 Métricas de Desenvolvimento
-
-<div align="center">
-  <br>
-  <a href="https://github.com/GSoaresTech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GSoaresTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/GSoaresTech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSoaresTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-  </a>
-</div>
-
-<br>
-
----
 
 ### 📫 Conecte-se comigo
 
